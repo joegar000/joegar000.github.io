@@ -61,5 +61,16 @@ export const projects = [
         href: "https://joegar000.github.io/watch-algorithms/"
       }
     ]
+  },
+  {
+    title: "Micropad",
+    tags: ["WIP"],
+    description: "A NodeJS app I'm working on to control my desktop from my phone as an alternative to something like a stream deck. Built using mDNS, websockets, and react.",
+    links: [
+      {
+        label: "See the source code here",
+        href: "https://github.com/joegar000/micropad"
+      }
+    ]
   }
 ];
